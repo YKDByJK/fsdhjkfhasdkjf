@@ -102,20 +102,20 @@ export function WelcomeBanner() {
   return (
     <Welcome>
       <div>
-        <h1>Welcome to Gamba v2 👋</h1>
+        <h1>Welcome to YKD Games 👋</h1>
         <p>
           A fair, simple and decentralized casino on Solana.
         </p>
       </div>
       <Buttons>
-        <button onClick={() => window.open('https://v2.gamba.so/', '_blank')}>
-          🚀 Add Liquidity
+        <button onClick={() => window.open('https://x.com/YonderKidDream', '_blank')}>
+          Twitter
         </button>
-        <button onClick={() => window.open('https://github.com/gamba-labs/gamba', '_blank')}>
-          👨‍💻 Build your own
+        <button onClick={() => window.open('https://t.me/YKDBYJKOfficial', '_blank')}>
+          Telegram
         </button>
-        <button onClick={() => window.open('https://discord.gg/HSTtFFwR', '_blank')}>
-          💬 Discord
+        <button onClick={() => window.open('https://discord.gg/vAzwdgHzr2', '_blank')}>
+           Discord
         </button>
       </Buttons>
     </Welcome>
