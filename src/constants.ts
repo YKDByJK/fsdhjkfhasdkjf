@@ -59,7 +59,7 @@ export const TOKEN_METADATA: (Partial<TokenMeta> & {mint: PublicKey})[] = [
     name: 'YonderKidDreams',
     symbol: 'YKD',
     image: 'ipfs://QmQULX9E5xbuu72Vmph9fDnJvUA85KPW7xheFJvXS2ywpc/Ykd_token-removebg-preview.png',
-    baseWager: 1e5,
+    baseWager: 1e11,
     decimals: 9,
     usdPrice: 0,
   },
